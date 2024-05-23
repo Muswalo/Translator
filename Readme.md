@@ -18,6 +18,10 @@ Interactive language translation chat application with multi-level navigation, u
   - Bootstrap 5
   - FontAwesome
 
+- **Bankend:**
+    - Firebase
+    - Firestore
+
 ## Setup and Installation
 
 1. **Clone the repository:**
@@ -25,11 +29,11 @@ Interactive language translation chat application with multi-level navigation, u
    git clone https://github.com/Muswalo/Translator.git
 
 2. **Navigate to the project directory:**
-```sh
+  ```sh
    cd language-translation-chat-app
 
 3. **Open index.html in your browser:**
-```sh
+  ```sh
     open index.html
 
 4. **contacts**
